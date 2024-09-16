@@ -1,0 +1,6 @@
+openCV
+tensorFlow
+Keras
+YOLOv5
+GenderNet
+NumPy
